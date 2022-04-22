@@ -1,0 +1,9 @@
+Proceso primerEjercicio
+	Definir nombre Como Caracter;
+	Definir apellido Como Caracter;
+	Escribir "Cual es tu nombre";
+	Leer nombre;
+	Escribir "Cuales son tus apellido";
+	Leer apellido;
+	Escribir "Hola ",nombre," ",apellido, " Un gusto";
+FinProceso
